@@ -4,16 +4,19 @@
   "description": "Utilitario para listar arquivos de um pasta",
   "main": "index.js",
   "bin": "index.js",
-  "pkg":{
-  	"targets":[
-  		"--win",
-  		"--x86"
-  	]
+  "pkg": {
+    "targets": [
+      "--win",
+      "--x86"
+    ]
   },
   "repository": {
     "type": "git",
     "url": "github.com/david-fernando/Listador_de_arquivos"
   },
   "author": "David Fernando",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
