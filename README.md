@@ -1,5 +1,5 @@
 <div>
-<img src="public/icon.png">
+<img src="public/icon.png" width="58" height="58">
 <h3>Listador de arquivos</h3>
 <div>
 <hr>
