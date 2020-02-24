@@ -1,22 +1,57 @@
 {
-  "name": "Listador_de_arquivos",
-  "version": "1.0.0",
-  "description": "Utilitario para listar arquivos de um pasta",
-  "main": "index.js",
-  "bin": "index.js",
-  "pkg": {
-    "targets": [
-      "--win",
-      "--x86"
+  "name": "listador-de-arquivos",
+  "version": "2.0.0",
+  "description": "utilitário para listar arquivos de uma pasta",
+  "author": "david-fernando",
+  "build": {
+    "appId": "react.electron",
+    "win": {
+      "icon": "build/icon.png"
+    }
+  },
+  "main": "public/electron.js",
+  "homepage": "./",
+  "private": false,
+  "dependencies": {
+    "cross-env": "^6.0.3",
+    "electron-is-dev": "^1.1.0",
+    "error-log-file": "^1.0.5",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.2.0",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^0.88.2",
+    "url": "^0.11.0"
+  },
+  "scripts": {
+    "start-react": "react-scripts start",
+    "build-react": "react-scripts build",
+    "test-react": "react-scripts test --env=jsdom",
+    "eject-react": "react-scripts eject",
+    "build-electron": "electron-builder --ia32 --x64 -w",
+    "build": "yarn build-react && yarn build-electron",
+    "start": "concurrently \"cross-env BROWSER=none yarn start-react\" \"wait-on http://localhost:3000 && electron .\""
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
     ]
   },
-  "repository": {
-    "type": "git",
-    "url": "github.com/david-fernando/Listador_de_arquivos"
-  },
-  "author": "David Fernando",
-  "license": "MIT",
-  "dependencies": {
-    "readline-sync": "^1.4.10"
+  "devDependencies": {
+    "concurrently": "^5.0.0",
+    "electron": "^7.1.0",
+    "electron-builder": "^22.1.0",
+    "wait-on": "^3.3.0"
   }
 }
