@@ -1,7 +1,7 @@
 <p>
-<img src="public/icon.png" height="48" width="48">
-Listador de arquivos
-</p>
+<img src="public/icon.png" height="58" width="58">
+<h3>Listador de arquivos</h3>
+<p>
 
   Utilitário para listar arquivos de uma pasta
   
