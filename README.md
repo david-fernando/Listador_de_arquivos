@@ -1,10 +1,11 @@
 <div>
 <img src="public/icon.png" width="58" height="58">
 <h3>Listador de arquivos</h3>
-<div>
+<div> 
+<hr>
+
   Utilitário para listar arquivos de uma pasta
 
-<hr>
 #### Download do executável
 - [Setup para Windows 32/64 bits](https://drive.google.com/open?id=1Q2rpao2KLVlGkkyyDwzbkgWeF6f05-j1)
   
