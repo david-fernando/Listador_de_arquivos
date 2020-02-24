@@ -1,6 +1,6 @@
-<p>
+<p align="center">
 <img src="public/icon.png" height="58" width="58">
-<h3>Listador de arquivos</h3>
+<h3 align="center">Listador de arquivos</h3>
 <p>
 
   Utilitário para listar arquivos de uma pasta
