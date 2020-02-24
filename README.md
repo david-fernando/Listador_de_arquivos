@@ -44,3 +44,5 @@ ou
 ```
 npm run build
 ```
+#### Versões anteriores
+  [Versão 1.0](https://github.com/david-fernando/Listador_de_arquivos/tree/v1.0.0)
