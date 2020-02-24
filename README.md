@@ -1,4 +1,4 @@
-<img src="public/icon.png" height="48" width="48"></img>
+ ![teste](/public/icon.png w=48)
 # Listador de arquivos
 
   Utilitário para listar arquivos de uma pasta
