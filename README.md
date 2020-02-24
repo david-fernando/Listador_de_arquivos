@@ -1,5 +1,5 @@
-<img src="public/icon.png" height="48" width="48"><br><h3>Listador de arquivos<h3>
-Utilitário para listar arquivos de uma pasta
+*<img src="public/icon.png" height="48" width="48">*### Listador de arquivos
+  Utilitário para listar arquivos de uma pasta
 #### Download do executável
 - [Setup para Windows 32/64 bits](https://drive.google.com/open?id=1Q2rpao2KLVlGkkyyDwzbkgWeF6f05-j1)
   
