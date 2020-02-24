@@ -11,7 +11,7 @@
   
 #### Para clonar o repositório
 ```
-git clone -b version_with_gui_under_development https://github.com/david-fernando/Listador_de_arquivos.git
+git clone https://github.com/david-fernando/Listador_de_arquivos.git
 ```
 #### Entre na pasta do projeto antes de executar os comandos abaixo
 ```
