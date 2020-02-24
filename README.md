@@ -1,5 +1,5 @@
-<img src="public/icon.png" height="48"><h3>Listador de arquivos<h3>
-
+<div style="display:inline"><img src="public/icon.png" height="48" width="48"><h3>Listador de arquivos<h3><div>
+  
 #### Para clonar o repositório
 ```
 git clone -b version_with_gui_under_development https://github.com/david-fernando/Listador_de_arquivos.git
