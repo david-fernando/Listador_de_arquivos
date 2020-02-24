@@ -1,19 +1,15 @@
 # Listador_de_arquivos
 Utilitário para listar arquivos de uma pasta
 
-#### Download do executável
-- [Para Windows 32bits](https://drive.google.com/open?id=1oXekRjC2SwciXtTXEReSY-tEF1p5adJQ)
-- [Para Windows 64bits](https://drive.google.com/open?id=1mxt_26YP8PHnTEQb4JUMljSvAisEq-6d)
-
 #### Para clonar o repositório
 ```
-git clone https://github.com/david-fernando/Listador_de_arquivos.git
+git clone -b version_with_gui_under_development https://github.com/david-fernando/Listador_de_arquivos.git
 ```
-#### Entre na pasta antes de executar os comandos abaixo
+#### Entre na pasta do projeto antes de executar os comandos abaixo
 ```
-cd Listador_de_arquivos
+cd Listador_de_arquivos 
 ```
-#### Para instalar as dependencias necessárias
+#### Para instalar as dependências necessárias
 ```
 yarn
 ```
@@ -23,14 +19,20 @@ npm install
 ```
 #### Para executar o projeto
 ```
-npm index.js
+yarn start
 ```
+ou
+```
+npm run start
+```
+##### ⚠️ Aviso!
+Ao executar um dos dois comandos acima o Electron **não** abrirar a janela do browser automaticamente, mas sim a janela do programa em si.
+
 #### Para fazer o executável
-1. ##### Instale o *pkg* globalmente
 ```
-npm install -g pkg
+yarn build
 ```
-2. ##### Excute o comando abaixo
+ou
 ```
-pkg .
+npm run build
 ```
