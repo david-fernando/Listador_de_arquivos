@@ -7,7 +7,7 @@
   Utilitário para listar arquivos de uma pasta
 
 #### Download do executável
-- [Setup para Windows 32/64 bits](https://drive.google.com/open?id=1Q2rpao2KLVlGkkyyDwzbkgWeF6f05-j1)
+- [Setup para Windows](https://drive.google.com/open?id=1Q2rpao2KLVlGkkyyDwzbkgWeF6f05-j1)
   
 #### Para clonar o repositório
 ```
