@@ -1,0 +1,30 @@
+.folderSelecter{
+    display: block;
+    border-style: dashed;
+    border-with: 1pt;
+    border-color: #9e9e9e;
+    width: 91vw;
+    height: 47vh;
+    text-align: center;
+    line-height: 50vh;
+    font-size: 12pt;
+    font-family: sans-serif;
+    color: #9e9e9e
+}
+.folderSelecterError{
+    display: block;
+    border-style: dashed;
+    border-with: 1pt;
+    border-color: #9e9e9e;
+    width: 91vw;
+    height: 47vh;
+    text-align: center;
+    line-height: 50vh;
+    font-size: 12pt;
+    font-family: sans-serif;
+    color: #c1807e
+}
+.select-folder, .outputFileName{
+    width: 91vw;
+    margin-top: 5vh !important
+}
