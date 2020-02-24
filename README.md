@@ -1,4 +1,4 @@
-<div style="display:inline"><img src="public/icon.png" height="48" width="48"><h3>Listador de arquivos<h3><div>
+<img src="public/icon.png" height="48" width="48"><br><h3>Listador de arquivos<h3>
   
 #### Para clonar o repositório
 ```
