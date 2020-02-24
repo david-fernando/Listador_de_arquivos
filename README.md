@@ -1,7 +1,6 @@
-<p align="center">
-<img src="public/icon.png" height="58" width="58">
-<h3 align="center">Listador de arquivos</h3>
-<p>
+![Listador de arquivos logo](public/icon.png){:style="height:48;"}
+<h3>Listador de arquivos</h3>
+<div>
 
   Utilitário para listar arquivos de uma pasta
   
