@@ -1,4 +1,4 @@
-<img src="public/icon.png" height="48" width="48">
+<img src="public/icon.png" height="48" width="48"></img>
 # Listador de arquivos
 
   Utilitário para listar arquivos de uma pasta
