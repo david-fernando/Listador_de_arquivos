@@ -7,7 +7,7 @@ Utilitário para listar arquivos de uma pasta
 
 #### Para clonar o repositório
 ```
-git clone https://github.com/david-fernando/Listador_de_arquivos.git
+git clone https://github.com/david-fernando/Listador_de_arquivos/tree/v1.0.0
 ```
 #### Entre na pasta antes de executar os comandos abaixo
 ```
