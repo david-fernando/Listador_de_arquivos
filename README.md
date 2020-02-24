@@ -1,4 +1,4 @@
-<img src="public/icon.png" height="48">    teste
+<img src="public/icon.png" height="48">    #Listador de arquivos
 
 #### Para clonar o repositório
 ```
