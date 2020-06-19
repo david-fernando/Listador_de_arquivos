@@ -4,8 +4,10 @@
   
   [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
   
-</div> 
+</div>
+
 ---
+
 #### Sobre
 - Este um programa executável para Windows que gera um arquivo txt com todos os arquivos de mídia da sua pasta.
 
