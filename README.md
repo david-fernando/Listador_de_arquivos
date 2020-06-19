@@ -8,7 +8,7 @@
 
 ---
 
- <h3 align="center">Utilitário para listar arquivos de uma pasta</h3>
+ <h3 align="center">Utilitário para listar arquivos de mídia uma pasta</h3>
 
 #### Download do executável
 - [Setup para Windows](https://drive.google.com/open?id=1Q2rpao2KLVlGkkyyDwzbkgWeF6f05-j1)
