@@ -9,7 +9,7 @@
 ---
 
 #### Sobre
-- Este um programa executável para Windows que gera um arquivo txt com todos os arquivos de mídia da sua pasta.
+- Este um programa executável para Windows que gera um arquivo de texto com todos os arquivos de mídia da sua pasta.
 
 #### Download do executável
 - [Setup para Windows](https://drive.google.com/open?id=1Q2rpao2KLVlGkkyyDwzbkgWeF6f05-j1)
