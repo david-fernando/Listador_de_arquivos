@@ -1,6 +1,6 @@
 <div align="center">
   <img src="public/icon.png" width="58" height="58">
-  <h3 align="center">Listador de arquivos</h3>
+  <h1>Listador de arquivos</h1>
   
   [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
   
