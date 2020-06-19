@@ -7,9 +7,6 @@
 </div> 
 
 ---
-
- <h3 align="center">Utilitário para listar arquivos de mídia uma pasta</h3>
-
 #### Sobre
 - Este um programa executável para Windows que gera um arquivo txt com todos os arquivos de mídia da sua pasta.
 
