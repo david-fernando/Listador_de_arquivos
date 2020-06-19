@@ -8,7 +8,7 @@
 
 ---
 
-  Utilitário para listar arquivos de uma pasta
+ <div align="center">Utilitário para listar arquivos de uma pasta</div>
 
 #### Download do executável
 - [Setup para Windows](https://drive.google.com/open?id=1Q2rpao2KLVlGkkyyDwzbkgWeF6f05-j1)
